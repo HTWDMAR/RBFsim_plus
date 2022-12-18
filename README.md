@@ -21,7 +21,7 @@ of the code (names not in any order):
 7. **Prof. Dr. T. Grischek** - Supervisory support on contents
 4. **Prof. Dr Andreas Hartmann** - Supervisory support on contents
 
-[!fig1](https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/RBFsim.png)
+
 
 
 
@@ -32,3 +32,7 @@ of the code (names not in any order):
 
 “Development of an analytic element method (AEM) based computational interface to evaluate the effect of inhomogeneities in the riverbank filtration systems”.
 TU Dresden, Dresden. Supervisors: Dr. P. K. Yadav, Prof. T. Grischek and Prof. A. Hartmann
+
+## Funding
+
+This project was partially funded by BMBF MEWAC-FEMAR Project (grant no. 02WME1612A-C, Prof. T. Grischek)
