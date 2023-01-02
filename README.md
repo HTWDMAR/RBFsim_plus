@@ -4,7 +4,7 @@
 
 RBFsim<sup>+</sup> is an enhanced version of RBFsim, where it contains additional realistic scenarios for an aquifer, e.g., line source or a lake in the domain (see figure below). Also, it provides novel methods in AEM to compute the filtrate portions from a circular lake and river to a RBF pumping well.
 
-<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/RBFsim_plus.png" width="400" height="250">
+<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/RBFsim_plus.png" width="600" height="400">
 
 ## Steps for using code 
 
