@@ -17,9 +17,9 @@ RBFsim<sup>+</sup> is an enhanced version of RBFsim, where it contains additiona
 7.	Option 6 can be overlooked by commenting the app.py line 147 – 151 and the inputs can be made directly at the excel input file for each functionality; Aquifer Data, Well(s) Data and Lake Source Data, where line source data has to provided directly in the script. 
 8.	Once the particular function is executed, the output graphical and data files can be accessed from each functionality folder Figure 2. 
 
-<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/Howto-fig1.png" width="400" height="250">
+<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/Howto-fig1.png" width="600" height="400">
 
-<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/Howto-fig2.png" width="400" height="250">
+<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/Howto-fig2.png" width="600" height="400">
 
 
 ## License and Authors
