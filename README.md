@@ -1,6 +1,6 @@
-# RBFsim_plus
+# RBFsim<sup>+</sup>
 
-## RBFsim_plus - what is it?
+## RBFsim<sup>+</sup> - what is it?
 
 RBFsim<sup>+</sup> is an enhanced version of RBFsim, where it contains additional realistic scenarios for an aquifer, e.g., line source or a lake in the domain (see figure below). Also, it provides novel methods in AEM to compute the filtrate portions from a circular lake and river to a RBF pumping well.
 
@@ -31,8 +31,8 @@ Following authors are credited for this version [![DOI](https://zenodo.org/badge
 of the code (names not in any order):
 
 1. **Ghiman Dilshad** - Main code developer
-2. **Dr Prabhas K Yadav** - Main conceptualization and basic code development
-7. **Prof. Dr. T. Grischek** - Supervisory support on contents
+2. **Dr Prabhas K Yadav** - Conceptualization and basic code development
+3. **Prof. Dr. T. Grischek** - Supervisory support on contents
 4. **Prof. Dr Andreas Hartmann** - Supervisory support on contents
 
 
