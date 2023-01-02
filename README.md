@@ -22,6 +22,14 @@ RBFsim<sup>+</sup> is an enhanced version of RBFsim, where it contains additiona
 <img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/Howto-fig2.png" width="600" height="400">
 
 
+## Output from RBFsim<sup>+</sup>
+
+The RBFsim<sup>+</sup> code when successfully executed will provide data files (csv) for head isolines and streamfunction. But more importantant code will result in several graphics outputs - few below:
+
+<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/Out-RBFsimp1.png" width="600" height="400">
+
+<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/Out-RBFsimp2.png" width="600" height="400">
+
 ## License and Authors
 The codes in this site are CC BY 4.0 licensed. The license wording can be found [here](https://creativecommons.org/licenses/by/4.0/).
 Basically, for using code from here- the original authors should be credited.
