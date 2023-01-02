@@ -2,11 +2,23 @@
 
 ## RBFsim_plus - what is it?
 
-The RBFsim_plus a
+RBFsim<sup>+</sup> is an enhanced version of RBFsim, where it contains additional realistic scenarios for an aquifer, e.g., line source or a lake in the domain (see figure below). Also, it provides novel methods in AEM to compute the filtrate portions from a circular lake and river to a RBF pumping well.
+
+<img src="https://github.com/HTWDMAR/RBFsim_plus/blob/main/Manual/RBFsim_plus.png" width="400" height="250">
 
 ## Steps for using code 
 
-1. Make sure that you have Python installed in your system
+1.	Make sure that you have Python installed in your system.
+2.	All the relevant libraries i.e., MATPLOTLIB, PANDAS, NUMPY, SCIPY and CMASHER should be called in Python.
+3.	Select the interpreter as Python.
+4.	Run the app from terminal by executing the app from command; ‘’Python app.py’’. 
+5.	Once the App is executed it provides user with 6 option to select from Figure 1.
+6.	Once the selection is made the user has to provide the input for relevant chosen option. 
+7.	Option 6 can be overlooked by commenting the app.py line 147 – 151 and the inputs can be made directly at the excel input file for each functionality; Aquifer Data, Well(s) Data and Lake Source Data, where line source data has to provided directly in the script. 
+8.	Once the particular function is executed, the output graphical and data files can be accessed from each functionality folder Figure 2. 
+
+
+
 
 ## License and Authors
 The codes in this site are CC BY 4.0 licensed. The license wording can be found [here](https://creativecommons.org/licenses/by/4.0/).
